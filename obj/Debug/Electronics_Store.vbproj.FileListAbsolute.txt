@@ -1,0 +1,17 @@
+D:\PROGRAMMING\.Net\Electronics_Store\bin\Debug\Electronics_Store.exe.config
+D:\PROGRAMMING\.Net\Electronics_Store\bin\Debug\Electronics_Store.exe
+D:\PROGRAMMING\.Net\Electronics_Store\bin\Debug\Electronics_Store.pdb
+D:\PROGRAMMING\.Net\Electronics_Store\bin\Debug\Electronics_Store.xml
+D:\PROGRAMMING\.Net\Electronics_Store\bin\Debug\Guna.UI.dll
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.vbproj.AssemblyReference.cache
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.Form1.resources
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.Resources.resources
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.vbproj.GenerateResource.cache
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.vbproj.CoreCompileInputs.cache
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electron.03FDF129.Up2Date
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.exe
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.xml
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.pdb
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.login_form.resources
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.Register.resources
+D:\PROGRAMMING\.Net\Electronics_Store\obj\Debug\Electronics_Store.Home.resources
