@@ -144,7 +144,7 @@ Partial Class login_form
         Me.GunaLabel4.AutoSize = True
         Me.GunaLabel4.Font = New System.Drawing.Font("Segoe UI", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GunaLabel4.ForeColor = System.Drawing.Color.FromArgb(CType(CType(85, Byte), Integer), CType(CType(57, Byte), Integer), CType(CType(34, Byte), Integer))
-        Me.GunaLabel4.Location = New System.Drawing.Point(122, 532)
+        Me.GunaLabel4.Location = New System.Drawing.Point(122, 514)
         Me.GunaLabel4.Name = "GunaLabel4"
         Me.GunaLabel4.Size = New System.Drawing.Size(172, 23)
         Me.GunaLabel4.TabIndex = 9
@@ -163,7 +163,7 @@ Partial Class login_form
         Me.GunaButton2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(195, Byte), Integer), CType(CType(130, Byte), Integer), CType(CType(78, Byte), Integer))
         Me.GunaButton2.Image = Nothing
         Me.GunaButton2.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton2.Location = New System.Drawing.Point(286, 532)
+        Me.GunaButton2.Location = New System.Drawing.Point(300, 514)
         Me.GunaButton2.Name = "GunaButton2"
         Me.GunaButton2.OnHoverBaseColor = System.Drawing.Color.Transparent
         Me.GunaButton2.OnHoverBorderColor = System.Drawing.Color.Transparent
@@ -180,7 +180,7 @@ Partial Class login_form
         Me.GunaLabel5.AutoSize = True
         Me.GunaLabel5.Font = New System.Drawing.Font("Segoe UI Semibold", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GunaLabel5.ForeColor = System.Drawing.Color.FromArgb(CType(CType(117, Byte), Integer), CType(CType(117, Byte), Integer), CType(CType(117, Byte), Integer))
-        Me.GunaLabel5.Location = New System.Drawing.Point(231, 497)
+        Me.GunaLabel5.Location = New System.Drawing.Point(231, 479)
         Me.GunaLabel5.Name = "GunaLabel5"
         Me.GunaLabel5.Size = New System.Drawing.Size(35, 20)
         Me.GunaLabel5.TabIndex = 12
@@ -199,7 +199,7 @@ Partial Class login_form
         Me.GunaButton1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(146, Byte), Integer), CType(CType(97, Byte), Integer), CType(CType(58, Byte), Integer))
         Me.GunaButton1.Image = Nothing
         Me.GunaButton1.ImageSize = New System.Drawing.Size(20, 20)
-        Me.GunaButton1.Location = New System.Drawing.Point(94, 410)
+        Me.GunaButton1.Location = New System.Drawing.Point(94, 393)
         Me.GunaButton1.Name = "GunaButton1"
         Me.GunaButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(251, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(206, Byte), Integer))
         Me.GunaButton1.OnHoverBorderColor = System.Drawing.Color.Black
@@ -235,7 +235,6 @@ Partial Class login_form
         Me.Name = "login_form"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "login"
-        Me.WindowState = System.Windows.Forms.FormWindowState.Minimized
         CType(GunaPictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.GunaPictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
