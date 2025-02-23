@@ -124,4 +124,10 @@
   <data name="Image Placeholder" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Image Placeholder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="laptop_5195997" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\laptop_5195997.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Lord Aizen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Lord Aizen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

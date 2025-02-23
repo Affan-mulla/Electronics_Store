@@ -27,6 +27,11 @@ Electronics_Store
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Electronics_Store.My.Resources.Resources.laptop_5195997">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Electronics_Store.My.Resources.Resources.young_man_with_laptop_computer_working_at_home_office">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
